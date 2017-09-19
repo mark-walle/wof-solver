@@ -204,6 +204,9 @@ public class WofBoardTest {
         boardBlock = (WofBoardBlock)gamePanel.getComponent(1);
         boardBlock.setText("U");
 
+        boardBlock = (WofBoardBlock)gamePanel.getComponent(2);
+        boardBlock.setText("N");
+
         boardBlock = (WofBoardBlock)gamePanel.getComponent(4);
         boardBlock.setText("Q");
 
